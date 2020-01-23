@@ -1,3 +1,3 @@
 # hello-world
 My first repository to test GitHub
-This is ma second change
+This is my second change
